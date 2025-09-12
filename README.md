@@ -10,6 +10,7 @@ Antes de iniciar, asegúrate de tener instalado:
 - **PHP**: Versión **8.1 o superior**  
 - **WampServer**  
 
+### 📋 Contacto  
 - ** 👩‍🏫 Facilitador: *Ing. Irina Fong* **
 - ** 📅 Fecha: 08 de Junio de 2025 ** 
 - ** 📚 Unidad: Páginas Web Dinámicas **
@@ -19,6 +20,7 @@ Antes de iniciar, asegúrate de tener instalado:
 
 🔗 **Referencia de la Información:**  
 [Validación de formularios en PHP (Mailtrap Blog)](https://mailtrap.io/blog/php-form-validation/#How-to-validate-a-form-in-PHP-using-script)  
+
 
 
 
