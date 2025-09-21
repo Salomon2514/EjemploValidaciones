@@ -8,18 +8,71 @@ Tecnologías: *PHP License*
 Antes de iniciar, asegúrate de tener instalado:  
 - **Servidor Web**: Apache o Nginx  
 - **PHP**: Versión **8.1 o superior**  
-- **WampServer**  
+- **WampServer**
 
-### 📋 Contacto  
- ** 👩‍🏫 Facilitador: *Ing. Irina Fong* ** <br>
- ** 📅 Fecha: 08 de Junio de 2025 ** <br>
+## 🌐 Tecnologías utilizadas  
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) 
+![WampServer](https://img.shields.io/badge/WampServer-FF0040?style=for-the-badge&logo=windows&logoColor=white)
+
+## ⚙️ Requisitos
+
+Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP (ecosistema de desarrollo).
+Estos paquetes permiten instalar de forma rápida un **stack de desarrollo** que incluye servidor web, base de datos y soporte para lenguajes de programación.
+
+| Entorno   | Plataforma      | Componentes principales                                                                 | Uso principal |
+|-----------|-----------------|-----------------------------------------------------------------------------------------|---------------|
+| **LAMP**  | Linux 🐧        | Apache · MySQL/MariaDB · PHP/Python/Perl                                                | Entornos de servidor Linux |
+| **WAMP**  | Windows 🪟      | Apache · MySQL/MariaDB · PHP                                                            | Desarrollo en Windows |
+| **MAMP**  | macOS 🍏        | Apache/Nginx · MySQL/MariaDB · PHP/Python/Perl                                          | Desarrollo en Mac |
+| **XAMPP** | Multiplataforma ✖️ | Apache · MySQL/MariaDB · PHP · Perl                                                   | Entorno portable y educativo |
+| **Laragon** | Windows ⚡     | Apache/Nginx · MySQL/MariaDB · PHP · Node.js · Redis (modular y ligero)                 | Desarrollo rápido y flexible |
+
+
+📌 **Nota:**  
+Estos entornos no son servidores en sí mismos, sino **paquetes que contienen servidores y herramientas** para simular un servidor web de forma local.
+
+**Editor de Código :** 
+- Visual Estudio Code
+
+
+🔗 **Referencia de la Información:**  
+**[Validación de formularios en PHP (Mailtrap Blog)](https://mailtrap.io/blog/php-form-validation/#How-to-validate-a-form-in-PHP-using-script)**
+
+
+## 🔢 Estadísticas
+
+![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
+
+ ** 📅 Fecha: 08 de Junio de 2025  ![Creado](https://img.shields.io/badge/Creado-01--09--2025-blue)** <br>
  ** 📚 Unidad: Páginas Web Dinámicas **<br>
  ** 📝 Tema: Validaciones de Formularios ** <br>
 
----
+## 📚 Cómo usar este repositorio
 
-🔗 **Referencia de la Información:**  
-[Validación de formularios en PHP (Mailtrap Blog)](https://mailtrap.io/blog/php-form-validation/#How-to-validate-a-form-in-PHP-using-script)  
+1. Descarga o clona el repositorio, ubica una carpeta en www -> para WampServer o htdocs  si es Xampp
+   ```bash
+   [git clone https://github.com/Salomon2514/EjemplosBasicosPHP.git]
+2. Para correrlos edita el URL de su navegador:  http://127.1.1.1/Carpeta/ o  http://localhost/Carpeta/
+
+
+## 👨‍🏫 Contacto
+**Irina Fong**  
+Instructor de Programación  
+Universidad Tecnológica de Panamá 
+
+📧 **Email:** irina.fong@utp.ac.pa  
+📧 **Email:** irinafong@gmail.com<br>
+🌐 **GitHub:**(https://github.com/Salomon2514)  
+
+
+
+
+
+
 
 
 
