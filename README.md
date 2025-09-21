@@ -64,11 +64,11 @@ Universidad Tecnológica de Panamá
 📧 **Email:** irinafong@gmail.com<br>
 🌐 **GitHub:**(https://github.com/Salomon2514)  
 
-## 🌐 Referencias
 
-Aquí puedes encontrar más información sobre la: **[Validación de formularios en PHP][1]**
---- 
-[1]: https://mailtrap.io/blog/php-form-validation/#How-to-validate-a-form-in-PHP-using-script
+
+🔗 **Referencias y recursos**
+
+- Validación de formularios en PHP: [ver aquí](https://mailtrap.io/blog/php-form-validation/#How-to-validate-a-form-in-PHP-using-script)  
 
 
 
