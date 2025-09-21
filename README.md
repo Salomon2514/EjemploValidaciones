@@ -47,7 +47,7 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 
 ![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
 
- ** 📅 Fecha: 08 de Junio de 2025  ![Creado](https://img.shields.io/badge/Creado-01--09--2025-blue)** <br>
+ ** 📅 Fecha:![Creado](https://img.shields.io/badge/Creado-08--07--2025-blue)** <br>
  ** 📚 Unidad: Páginas Web Dinámicas **<br>
  ** 📝 Tema: Validaciones de Formularios ** <br>
 
@@ -67,6 +67,7 @@ Universidad Tecnológica de Panamá
 📧 **Email:** irina.fong@utp.ac.pa  
 📧 **Email:** irinafong@gmail.com<br>
 🌐 **GitHub:**(https://github.com/Salomon2514)  
+
 
 
 
