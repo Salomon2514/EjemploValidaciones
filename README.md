@@ -40,11 +40,11 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 
 
 ## 🔢 Estadísticas
-
+ ![Creado](https://img.shields.io/badge/Creado-08--07--2025-blue)
 ![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Salomon2514.EjemplosBasicosPHP)
 
- ** ![Creado](https://img.shields.io/badge/Creado-08--07--2025-blue)** <br>
+
  ** 📚 Unidad: Páginas Web Dinámicas **<br>
  ** 📝 Tema: Validaciones de Formularios ** <br>
 
@@ -70,6 +70,7 @@ Universidad Tecnológica de Panamá
 ## 📖 Referencias
 
 - Validación de formularios en PHP: [ver aquí](https://mailtrap.io/blog/php-form-validation/#How-to-validate-a-form-in-PHP-using-script)  
+
 
 
 
