@@ -39,8 +39,9 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 - Visual Estudio Code
 
 
-🔗 **[Validación de formularios en PHP][1]:**  
----
+🔗 **Referencias:**
+
+--- [Validación de formularios en PHP][1]: 
 [1]: https://mailtrap.io/blog/php-form-validation/#How-to-validate-a-form-in-PHP-using-script
 
 ## 🔢 Estadísticas
@@ -67,6 +68,7 @@ Universidad Tecnológica de Panamá
 📧 **Email:** irina.fong@utp.ac.pa  
 📧 **Email:** irinafong@gmail.com<br>
 🌐 **GitHub:**(https://github.com/Salomon2514)  
+
 
 
 
